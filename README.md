@@ -1,3 +1,5 @@
+# DEPRECATED
+
 TagPicker
 ------------
 
@@ -14,7 +16,7 @@ TagPicker is a PHP class to offer some tags on a text. It is done 'cause I'm laz
 
 > Depreciado, obsoleto e arquivado :-).
 > 
-> Em 2012 não soube aplicar na prática técnica bem mais interessantes para se chegar no mesmo resultado.
+> Em 2012 não soube aplicar na prática técnicas bem mais interessantes para se chegar no mesmo resultado.
 > 
 
 TagPicker é uma classe PHP para dar dicas sobre tags para um texto. A fiz pois sou bem preguiçoso pra decidir quais serão as tags para os posts de meu blog.
