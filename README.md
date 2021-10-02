@@ -1,5 +1,7 @@
 # DEPRECATED
 
+![no-maintenance-intended](https://img.shields.io/maintenance/no/2012?style=plastic)
+
 TagPicker
 ------------
 
